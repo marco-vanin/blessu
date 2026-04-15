@@ -1,0 +1,22 @@
+[
+  { "code": "en", "language": "Anglais",    "text": "Bless you" },
+  { "code": "es", "language": "Espagnol",   "text": "Salud" },
+  { "code": "de", "language": "Allemand",   "text": "Gesundheit" },
+  { "code": "it", "language": "Italien",    "text": "Salute" },
+  { "code": "ja", "language": "Japonais",   "text": "お大事に" },
+  { "code": "ar", "language": "Arabe",      "text": "يرحمك الله" },
+  { "code": "ru", "language": "Russe",      "text": "Будьте здоровы" },
+  { "code": "pt", "language": "Portugais",  "text": "Saúde" },
+  { "code": "nl", "language": "Néerlandais","text": "Gezondheid" },
+  { "code": "sv", "language": "Suédois",    "text": "Prosit" },
+  { "code": "pl", "language": "Polonais",   "text": "Na zdrowie" },
+  { "code": "tr", "language": "Turc",       "text": "Çok yaşa" },
+  { "code": "ko", "language": "Coréen",     "text": "건강하세요" },
+  { "code": "zh", "language": "Chinois",    "text": "保重" },
+  { "code": "hi", "language": "Hindi",      "text": "स्वस्थ रहो" },
+  { "code": "fi", "language": "Finnois",    "text": "Terveydeksi" },
+  { "code": "he", "language": "Hébreu",     "text": "לבריאות" },
+  { "code": "el", "language": "Grec",       "text": "Γεια σου" },
+  { "code": "cs", "language": "Tchèque",    "text": "Na zdraví" },
+  { "code": "hu", "language": "Hongrois",   "text": "Egészségedre" }
+]
