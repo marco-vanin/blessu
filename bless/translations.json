@@ -1,22 +1,977 @@
 [
-  { "code": "en", "language": "Anglais",    "text": "Bless you" },
-  { "code": "es", "language": "Espagnol",   "text": "Salud" },
-  { "code": "de", "language": "Allemand",   "text": "Gesundheit" },
-  { "code": "it", "language": "Italien",    "text": "Salute" },
-  { "code": "ja", "language": "Japonais",   "text": "お大事に" },
-  { "code": "ar", "language": "Arabe",      "text": "يرحمك الله" },
-  { "code": "ru", "language": "Russe",      "text": "Будьте здоровы" },
-  { "code": "pt", "language": "Portugais",  "text": "Saúde" },
-  { "code": "nl", "language": "Néerlandais","text": "Gezondheid" },
-  { "code": "sv", "language": "Suédois",    "text": "Prosit" },
-  { "code": "pl", "language": "Polonais",   "text": "Na zdrowie" },
-  { "code": "tr", "language": "Turc",       "text": "Çok yaşa" },
-  { "code": "ko", "language": "Coréen",     "text": "건강하세요" },
-  { "code": "zh", "language": "Chinois",    "text": "保重" },
-  { "code": "hi", "language": "Hindi",      "text": "स्वस्थ रहो" },
-  { "code": "fi", "language": "Finnois",    "text": "Terveydeksi" },
-  { "code": "he", "language": "Hébreu",     "text": "לבריאות" },
-  { "code": "el", "language": "Grec",       "text": "Γεια σου" },
-  { "code": "cs", "language": "Tchèque",    "text": "Na zdraví" },
-  { "code": "hu", "language": "Hongrois",   "text": "Egészségedre" }
+  {
+    "code": "ab",
+    "language": "Abkhaze",
+    "text": "Уныҳәазааит."
+  },
+  {
+    "code": "ace",
+    "language": "Aceh",
+    "text": "Meuberkat keu gata."
+  },
+  {
+    "code": "ach",
+    "language": "Acholi",
+    "text": "Omini gum."
+  },
+  {
+    "code": "af",
+    "language": "Afrikaans",
+    "text": "Mag julle geseën word."
+  },
+  {
+    "code": "sq",
+    "language": "Albanais",
+    "text": "Të bekoftë!"
+  },
+  {
+    "code": "de",
+    "language": "Allemand",
+    "text": "Gesundheit."
+  },
+  {
+    "code": "alz",
+    "language": "Alur",
+    "text": "Mugisa iri."
+  },
+  {
+    "code": "am",
+    "language": "Amharique",
+    "text": "ይባርክህ።"
+  },
+  {
+    "code": "en",
+    "language": "Anglais",
+    "text": "Bless you."
+  },
+  {
+    "code": "ar",
+    "language": "Arabe",
+    "text": "بارك الله فيك."
+  },
+  {
+    "code": "hy",
+    "language": "Arménien",
+    "text": "Օրհնյալ լինի քեզ։"
+  },
+  {
+    "code": "as",
+    "language": "Assamais",
+    "text": "আশীৰ্বাদ কৰক।"
+  },
+  {
+    "code": "awa",
+    "language": "Awadhi",
+    "text": "तोहका आशीर्वाद देई।"
+  },
+  {
+    "code": "ay",
+    "language": "Aymara",
+    "text": "Bendicipxam."
+  },
+  {
+    "code": "az",
+    "language": "Azéri",
+    "text": "Sənə xeyir-dua versin."
+  },
+  {
+    "code": "ba",
+    "language": "Bachkir",
+    "text": "Һеҙгә фатиха бирһен."
+  },
+  {
+    "code": "ban",
+    "language": "Balinais",
+    "text": "Amertan semeton."
+  },
+  {
+    "code": "bm",
+    "language": "Bambara",
+    "text": "Duba kɛ aw ye."
+  },
+  {
+    "code": "eu",
+    "language": "Basque",
+    "text": "Jainkoak bedeinka zaitzala."
+  },
+  {
+    "code": "btx",
+    "language": "Batak Karo",
+    "text": "Ipasu-pasulah kam."
+  },
+  {
+    "code": "bts",
+    "language": "Batak Simalungun",
+    "text": "Pasu-pasu ma ham."
+  },
+  {
+    "code": "bbc",
+    "language": "Batak Toba",
+    "text": "Pasupasu ma ho."
+  },
+  {
+    "code": "bem",
+    "language": "Bemba",
+    "text": "Ukumupaala."
+  },
+  {
+    "code": "bn",
+    "language": "Bengali",
+    "text": "ঈশ্বর আপনার মঙ্গল করুন।"
+  },
+  {
+    "code": "bew",
+    "language": "Betawi",
+    "text": "Berkati lu."
+  },
+  {
+    "code": "bho",
+    "language": "Bhodjpouri",
+    "text": "रउरा सभे के आशीर्वाद दीं."
+  },
+  {
+    "code": "bik",
+    "language": "Bicol",
+    "text": "Bendisyonan kamo."
+  },
+  {
+    "code": "be",
+    "language": "Biélorusse",
+    "text": "Благаслаўляю вас."
+  },
+  {
+    "code": "my",
+    "language": "Birman",
+    "text": "သင့်ကိုဘုရားသခင်ကောင်းချီးပေးပါစေ။"
+  },
+  {
+    "code": "bs",
+    "language": "Bosniaque",
+    "text": "Blagoslovljen bio."
+  },
+  {
+    "code": "bua",
+    "language": "Bouriate",
+    "text": "Таниие үршөөг лэ."
+  },
+  {
+    "code": "br",
+    "language": "Breton",
+    "text": "Bennozh deoc'h."
+  },
+  {
+    "code": "bg",
+    "language": "Bulgare",
+    "text": "Благословен да си."
+  },
+  {
+    "code": "yue",
+    "language": "Cantonais",
+    "text": "祝福你。"
+  },
+  {
+    "code": "ca",
+    "language": "Catalan",
+    "text": "Déu us beneeixi."
+  },
+  {
+    "code": "ceb",
+    "language": "Cebuano",
+    "text": "Panalanginan ka."
+  },
+  {
+    "code": "ny",
+    "language": "Chichewa",
+    "text": "Akudalitseni."
+  },
+  {
+    "code": "zh",
+    "language": "Chinois (simplifié)",
+    "text": "祝福你。"
+  },
+  {
+    "code": "zh-TW",
+    "language": "Chinois (traditionnel)",
+    "text": "祝福你。"
+  },
+  {
+    "code": "si",
+    "language": "Cinghalais",
+    "text": "ඔබට සෙත් වේවා."
+  },
+  {
+    "code": "ko",
+    "language": "Coréen",
+    "text": "축복합니다."
+  },
+  {
+    "code": "co",
+    "language": "Corse",
+    "text": "Sia benedettu."
+  },
+  {
+    "code": "ht",
+    "language": "Créole haïtien",
+    "text": "Bondye beni ou."
+  },
+  {
+    "code": "crs",
+    "language": "Créole seychellois",
+    "text": "beni ou."
+  },
+  {
+    "code": "hr",
+    "language": "Croate",
+    "text": "Blagoslovio te."
+  },
+  {
+    "code": "da",
+    "language": "Danois",
+    "text": "Gud velsigne dig."
+  },
+  {
+    "code": "din",
+    "language": "Dinka",
+    "text": "Yïn acï thieei."
+  },
+  {
+    "code": "dv",
+    "language": "Divéhi",
+    "text": "ބަރަކާތް ލައްވާށި."
+  },
+  {
+    "code": "doi",
+    "language": "Dogri",
+    "text": "आशीर्वाद दे।"
+  },
+  {
+    "code": "dov",
+    "language": "Dombe",
+    "text": "Amulongezye."
+  },
+  {
+    "code": "dz",
+    "language": "Dzongkha",
+    "text": "བྱིན་རླབས་གནང་།"
+  },
+  {
+    "code": "es",
+    "language": "Espagnol",
+    "text": "Salud."
+  },
+  {
+    "code": "eo",
+    "language": "Espéranto",
+    "text": "Dio vin benu."
+  },
+  {
+    "code": "et",
+    "language": "Estonien",
+    "text": "Õnnistagu sind."
+  },
+  {
+    "code": "ee",
+    "language": "Ewe",
+    "text": "Yra wò."
+  },
+  {
+    "code": "fj",
+    "language": "Fidjien",
+    "text": "Ni kalougata tiko."
+  },
+  {
+    "code": "fi",
+    "language": "Finnois",
+    "text": "Siunatkoon sinua."
+  },
+  {
+    "code": "fr",
+    "language": "Français",
+    "text": "À tes souhaits"
+  },
+  {
+    "code": "fr-CA",
+    "language": "Français (Canada)",
+    "text": "À tes souhaits"
+  },
+  {
+    "code": "fy",
+    "language": "Frison",
+    "text": "Sûnens."
+  },
+  {
+    "code": "gaa",
+    "language": "Ga",
+    "text": "Ejɔɔ bo."
+  },
+  {
+    "code": "gd",
+    "language": "Gaélique (Écosse)",
+    "text": "Beannachd leat."
+  },
+  {
+    "code": "gl",
+    "language": "Galicien",
+    "text": "Deus te bendiga."
+  },
+  {
+    "code": "cy",
+    "language": "Gallois",
+    "text": "Bendithia chi."
+  },
+  {
+    "code": "ka",
+    "language": "Géorgien",
+    "text": "დაგლოცოთ."
+  },
+  {
+    "code": "el",
+    "language": "Grec",
+    "text": "Να σε ευλογεί."
+  },
+  {
+    "code": "gn",
+    "language": "Guarani",
+    "text": "Penderovasa."
+  },
+  {
+    "code": "gu",
+    "language": "Gujarati",
+    "text": "આપને આશીર્વાદ."
+  },
+  {
+    "code": "cnh",
+    "language": "Hakha Chin",
+    "text": "Thluachuah in pe ko hna seh."
+  },
+  {
+    "code": "ha",
+    "language": "Haoussa",
+    "text": "Albarka gare ku."
+  },
+  {
+    "code": "haw",
+    "language": "Hawaïen",
+    "text": "Hoʻopōmaikaʻi iā ʻoe."
+  },
+  {
+    "code": "iw",
+    "language": "Hébreu",
+    "text": "יבורך."
+  },
+  {
+    "code": "hil",
+    "language": "Hiligaïnon",
+    "text": "Pakamaayuhon ka."
+  },
+  {
+    "code": "hi",
+    "language": "Hindi",
+    "text": "तुम्हें आशीर्वाद देते हैं।"
+  },
+  {
+    "code": "hmn",
+    "language": "Hmong",
+    "text": "Foom koob hmoov rau koj."
+  },
+  {
+    "code": "hu",
+    "language": "Hongrois",
+    "text": "Egészségedre."
+  },
+  {
+    "code": "hrx",
+    "language": "Hunsrik",
+    "text": "Seechne tich."
+  },
+  {
+    "code": "ig",
+    "language": "Igbo",
+    "text": "Gozie gị."
+  },
+  {
+    "code": "ilo",
+    "language": "Ilocano",
+    "text": "Bendisionannakayo."
+  },
+  {
+    "code": "id",
+    "language": "Indonésien",
+    "text": "Semoga Tuhan memberkati Anda."
+  },
+  {
+    "code": "ga",
+    "language": "Irlandais",
+    "text": "Go mbeannaí tú."
+  },
+  {
+    "code": "is",
+    "language": "Islandais",
+    "text": "Blessaður veri þú."
+  },
+  {
+    "code": "it",
+    "language": "Italien",
+    "text": "Salute."
+  },
+  {
+    "code": "ja",
+    "language": "Japonais",
+    "text": "お大事に。"
+  },
+  {
+    "code": "jw",
+    "language": "Javanais",
+    "text": "Muga-muga slamet."
+  },
+  {
+    "code": "kn",
+    "language": "Kannada",
+    "text": "ನಿಮ್ಮನ್ನು ಆಶೀರ್ವದಿಸಲಿ."
+  },
+  {
+    "code": "kk",
+    "language": "Kazakh",
+    "text": "Аман болыңыз."
+  },
+  {
+    "code": "km",
+    "language": "Khmer",
+    "text": "សូមជូនពរអ្នក។"
+  },
+  {
+    "code": "cgg",
+    "language": "Kiga",
+    "text": "Abahe omugisha."
+  },
+  {
+    "code": "rw",
+    "language": "Kinyarwanda",
+    "text": "Urahirwa."
+  },
+  {
+    "code": "ky",
+    "language": "Kirghiz",
+    "text": "Жараткан сизге береке берсин."
+  },
+  {
+    "code": "ktu",
+    "language": "Kituba",
+    "text": "Sakumuna beno."
+  },
+  {
+    "code": "gom",
+    "language": "Konkani",
+    "text": "तुमकां आशीर्वाद दिवचो."
+  },
+  {
+    "code": "kri",
+    "language": "Krio",
+    "text": "Blɛs yu."
+  },
+  {
+    "code": "ku",
+    "language": "Kurde (Kurmandji)",
+    "text": "Xwedê efû bike."
+  },
+  {
+    "code": "ckb",
+    "language": "Kurde (Sorani)",
+    "text": "بەرەکەتتان پێ ببەخشێت."
+  },
+  {
+    "code": "lo",
+    "language": "Laotien",
+    "text": "ຂໍອວຍພອນໃຫ້ທ່ານ."
+  },
+  {
+    "code": "ltg",
+    "language": "Latgalien",
+    "text": "Svētej jūs."
+  },
+  {
+    "code": "la",
+    "language": "Latin",
+    "text": "Benedicat tibi."
+  },
+  {
+    "code": "lv",
+    "language": "Letton",
+    "text": "Lai Dievs jūs svētī."
+  },
+  {
+    "code": "lij",
+    "language": "Ligure",
+    "text": "Benedixe ti."
+  },
+  {
+    "code": "li",
+    "language": "Limbourgeois",
+    "text": "Zege uuch."
+  },
+  {
+    "code": "ln",
+    "language": "Lingala",
+    "text": "Pambola yo."
+  },
+  {
+    "code": "lt",
+    "language": "Lituanien",
+    "text": "Telaimina jus."
+  },
+  {
+    "code": "lmo",
+    "language": "Lombard",
+    "text": "Benedit."
+  },
+  {
+    "code": "lg",
+    "language": "Luganda",
+    "text": "Bawe omukisa."
+  },
+  {
+    "code": "luo",
+    "language": "Luo",
+    "text": "Ogwedhi."
+  },
+  {
+    "code": "lb",
+    "language": "Luxembourgeois",
+    "text": "Segen Iech."
+  },
+  {
+    "code": "mak",
+    "language": "Macassar",
+    "text": "Nibarakkakiko."
+  },
+  {
+    "code": "mk",
+    "language": "Macédonien",
+    "text": "Да те благослови."
+  },
+  {
+    "code": "mai",
+    "language": "Maïthili",
+    "text": "आशीर्वाद दिअ।"
+  },
+  {
+    "code": "ms-Arab",
+    "language": "Malais (Jawi)",
+    "text": "بركةله اندا."
+  },
+  {
+    "code": "ms",
+    "language": "Malaisien",
+    "text": "Semoga diberkati."
+  },
+  {
+    "code": "ml",
+    "language": "Malayalam",
+    "text": "നിങ്ങളെ അനുഗ്രഹിക്കുന്നു."
+  },
+  {
+    "code": "mg",
+    "language": "Malgache",
+    "text": "Mitso-drano anao."
+  },
+  {
+    "code": "mt",
+    "language": "Maltais",
+    "text": "Alla jbierek lilek."
+  },
+  {
+    "code": "mi",
+    "language": "Maori",
+    "text": "Kia manaakitia koe."
+  },
+  {
+    "code": "mr",
+    "language": "Marathi",
+    "text": "तुमचे भले होवो."
+  },
+  {
+    "code": "chm",
+    "language": "Mari des prairies",
+    "text": "Тыйым суапландаре."
+  },
+  {
+    "code": "yua",
+    "language": "Maya yucatèque",
+    "text": "Ki'iki't'ante'ex."
+  },
+  {
+    "code": "mni-Mtei",
+    "language": "Meitei (Manipuri)",
+    "text": "ꯑꯗꯣꯃꯕꯨ ꯊꯧꯖꯥꯜ ꯄꯤꯕꯤꯌꯨ꯫"
+  },
+  {
+    "code": "min",
+    "language": "Minangkabau",
+    "text": "Barakaik-i awak."
+  },
+  {
+    "code": "lus",
+    "language": "Mizo",
+    "text": "Malsawm rawh se."
+  },
+  {
+    "code": "mn",
+    "language": "Mongol",
+    "text": "Танд ивээл хүсье."
+  },
+  {
+    "code": "nr",
+    "language": "Ndébélé (Sud)",
+    "text": "Ngikubusise."
+  },
+  {
+    "code": "nl",
+    "language": "Néerlandais",
+    "text": "God zegene u."
+  },
+  {
+    "code": "ne",
+    "language": "Népalais",
+    "text": "आशीर्वाद दिनुहोस्।"
+  },
+  {
+    "code": "new",
+    "language": "Nepalbhasha (Newari)",
+    "text": "छन्त आशिर्वाद बीमा ।"
+  },
+  {
+    "code": "no",
+    "language": "Norvégien",
+    "text": "Velsignet være deg."
+  },
+  {
+    "code": "nus",
+    "language": "Nuer",
+    "text": "A puɔ̱th yɛ."
+  },
+  {
+    "code": "oc",
+    "language": "Occitan",
+    "text": "Te benesisca."
+  },
+  {
+    "code": "or",
+    "language": "Odia (Oriya)",
+    "text": "ତୁମକୁ ଆଶୀର୍ବାଦ।"
+  },
+  {
+    "code": "om",
+    "language": "Oromo",
+    "text": "Isin eebbisaa."
+  },
+  {
+    "code": "ug",
+    "language": "Ouïgour",
+    "text": "سىزگە بەخت تىلەيمەن."
+  },
+  {
+    "code": "uz",
+    "language": "Ouzbek",
+    "text": "Salomat bo'ling."
+  },
+  {
+    "code": "ps",
+    "language": "Pachtô",
+    "text": "تا دې وبخښي."
+  },
+  {
+    "code": "pam",
+    "language": "Pampangan",
+    "text": "Bendisyunan da kayu."
+  },
+  {
+    "code": "pag",
+    "language": "Pangasinan",
+    "text": "Bendisyonan ka."
+  },
+  {
+    "code": "pa",
+    "language": "Panjabi (Gurmukhi)",
+    "text": "ਬਲੇਸ ਯੂ."
+  },
+  {
+    "code": "pa-Arab",
+    "language": "Panjabi (Shahmukhi)",
+    "text": "تہانوں برکت دیوے۔"
+  },
+  {
+    "code": "pap",
+    "language": "Papiamento",
+    "text": "Bendishoná bo."
+  },
+  {
+    "code": "fa",
+    "language": "Persan",
+    "text": "خدا خیرت بده."
+  },
+  {
+    "code": "ff",
+    "language": "Peul",
+    "text": "Barke maa."
+  },
+  {
+    "code": "tl",
+    "language": "Philippin",
+    "text": "Pagpalain ka."
+  },
+  {
+    "code": "pl",
+    "language": "Polonais",
+    "text": "Na zdrowie."
+  },
+  {
+    "code": "pt",
+    "language": "Portugais (Brésil)",
+    "text": "Abençoe."
+  },
+  {
+    "code": "pt-PT",
+    "language": "Portugais (Portugal)",
+    "text": "Abençoe."
+  },
+  {
+    "code": "qu",
+    "language": "Quechua",
+    "text": "Saminchasunkichis."
+  },
+  {
+    "code": "rom",
+    "language": "Romani",
+    "text": "Te avel baxtalo."
+  },
+  {
+    "code": "ro",
+    "language": "Roumain",
+    "text": "Să vă binecuvânteze."
+  },
+  {
+    "code": "rn",
+    "language": "Roundi",
+    "text": "Mubahezagire."
+  },
+  {
+    "code": "ru",
+    "language": "Russe",
+    "text": "Будьте здоровы."
+  },
+  {
+    "code": "sm",
+    "language": "Samoan",
+    "text": "Manuia oe."
+  },
+  {
+    "code": "sg",
+    "language": "Sango",
+    "text": "Bâ tënë nzoni na ndo ti mo."
+  },
+  {
+    "code": "sa",
+    "language": "Sanskrit",
+    "text": "आशीर्वादं ददातु।"
+  },
+  {
+    "code": "nso",
+    "language": "Sepedi",
+    "text": "A go šegofatše."
+  },
+  {
+    "code": "sr",
+    "language": "Serbe",
+    "text": "Благословио те."
+  },
+  {
+    "code": "st",
+    "language": "Sesotho",
+    "text": "Molimo a u hloholofatse."
+  },
+  {
+    "code": "shn",
+    "language": "Shan",
+    "text": "ပၼ်မၢင်ႇၵလႃႇ။"
+  },
+  {
+    "code": "sn",
+    "language": "Shona",
+    "text": "Komborerwa."
+  },
+  {
+    "code": "scn",
+    "language": "Sicilien",
+    "text": "Ti benedica."
+  },
+  {
+    "code": "szl",
+    "language": "Silésien",
+    "text": "Błogosławi ci."
+  },
+  {
+    "code": "sd",
+    "language": "Sindhî",
+    "text": "توهان تي رحمت هجي."
+  },
+  {
+    "code": "sk",
+    "language": "Slovaque",
+    "text": "Nech ťa žehná."
+  },
+  {
+    "code": "sl",
+    "language": "Slovène",
+    "text": "Blagoslovi te."
+  },
+  {
+    "code": "so",
+    "language": "Somali",
+    "text": "Barakee."
+  },
+  {
+    "code": "su",
+    "language": "Soundanais",
+    "text": "Berkah kanggo Anjeun."
+  },
+  {
+    "code": "sv",
+    "language": "Suédois",
+    "text": "Gud välsigne dig."
+  },
+  {
+    "code": "sw",
+    "language": "Swahili",
+    "text": "Ubarikiwe."
+  },
+  {
+    "code": "ss",
+    "language": "Swati",
+    "text": "Anibusise."
+  },
+  {
+    "code": "tg",
+    "language": "Tadjik",
+    "text": "Саломат бошед."
+  },
+  {
+    "code": "ta",
+    "language": "Tamoul",
+    "text": "உங்களுக்கு ஆசீர்வாதம்."
+  },
+  {
+    "code": "tt",
+    "language": "Tatar",
+    "text": "Аллаһтан рәхмәт."
+  },
+  {
+    "code": "crh",
+    "language": "Tatar de Crimée",
+    "text": "Сизге берекет олсун."
+  },
+  {
+    "code": "cs",
+    "language": "Tchèque",
+    "text": "Žehnej vám."
+  },
+  {
+    "code": "cv",
+    "language": "Tchouvache",
+    "text": "Пиллӗх сире."
+  },
+  {
+    "code": "te",
+    "language": "Telugu",
+    "text": "మీకు శుభం కలుగుగాక."
+  },
+  {
+    "code": "tet",
+    "language": "Tétoum",
+    "text": "Bensaun ba ita-boot."
+  },
+  {
+    "code": "th",
+    "language": "Thaï",
+    "text": "ขอพระเจ้าอวยพรคุณ"
+  },
+  {
+    "code": "ti",
+    "language": "Tigrigna",
+    "text": "ባርኽ ይሃብካ።"
+  },
+  {
+    "code": "ts",
+    "language": "Tsonga",
+    "text": "Mi katekise."
+  },
+  {
+    "code": "tn",
+    "language": "Tswana",
+    "text": "A le segofatse."
+  },
+  {
+    "code": "tr",
+    "language": "Turc",
+    "text": "Çok yaşa."
+  },
+  {
+    "code": "tk",
+    "language": "Turkmène",
+    "text": "Size bereket bolsun."
+  },
+  {
+    "code": "ak",
+    "language": "Twi",
+    "text": "Nhyira wo."
+  },
+  {
+    "code": "uk",
+    "language": "Ukrainien",
+    "text": "Благословляю вас."
+  },
+  {
+    "code": "ur",
+    "language": "Urdu",
+    "text": "آپ کو مبارک ہو۔"
+  },
+  {
+    "code": "vi",
+    "language": "Vietnamien",
+    "text": "Chúc bạn may mắn."
+  },
+  {
+    "code": "xh",
+    "language": "Xhosa",
+    "text": "Usikelelke."
+  },
+  {
+    "code": "yi",
+    "language": "Yiddish",
+    "text": "זאָלסט דיר געבענטשט זײַן."
+  },
+  {
+    "code": "yo",
+    "language": "Yoruba",
+    "text": "Ibukun fun e."
+  },
+  {
+    "code": "zu",
+    "language": "Zoulou",
+    "text": "Busisiwe."
+  },
+  {
+    "code": "he",
+    "language": "Hébreu",
+    "text": "יבורך."
+  },
+  {
+    "code": "jv",
+    "language": "Javanais",
+    "text": "Muga-muga slamet."
+  },
+  {
+    "code": "zh-CN",
+    "language": "Chinois (simplifié)",
+    "text": "祝福你。"
+  }
 ]
