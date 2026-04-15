@@ -1,55 +1,55 @@
 # blessu
 
-À chaque éternuement, une façon de dire "À tes souhaits" dans une nouvelle langue.
+À chaque éternuement, une nouvelle façon de dire "À tes souhaits" — dans une des 195 langues du monde.
 
 ```
-  Gesundheit
+  Gesundheit.
   Allemand
 ```
 
-Le mot est automatiquement copié dans le presse-papier.
+La traduction est automatiquement copiée dans le presse-papier. blessu parcourt toutes les langues sans répétition avant de recommencer un nouveau cycle.
 
 ---
 
 ## Installation
 
 ```bash
-git clone https://github.com/ton-user/bless-u.git
+git clone https://github.com/marcovanin/bless-u.git
 cd bless-u
 pip3 install -e .
 ```
 
-Ajoute ça dans ton `~/.zshrc` si la commande n'est pas trouvée :
+Si la commande n'est pas trouvée, ajouter le chemin Python à `~/.zshrc` :
 
 ```bash
-export PATH="$HOME/Library/Python/3.9/bin:$PATH"
+export PATH="$HOME/Library/Python/3.x/bin:$PATH"
 ```
 
 ---
 
-## Commandes
+## Usage
 
-| Commande | Description |
-|---|---|
-| `blessu` | Traduction aléatoire + copie dans le presse-papier |
-| `blessu --history` | Langues déjà utilisées |
-| `blessu --reset` | Vider l'historique |
-| `blessu --help` | Afficher l'aide |
+```
+blessu              traduction aléatoire, copiée dans le presse-papier
+blessu --history    afficher les langues déjà utilisées dans le cycle
+blessu --reset      réinitialiser l'historique
+blessu --help       afficher l'aide
+```
 
 ---
 
 ## Langues
 
-20 langues : anglais, espagnol, allemand, italien, japonais, arabe, russe, portugais, néerlandais, suédois, polonais, turc, coréen, chinois, hindi, finnois, hébreu, grec, tchèque, hongrois.
+195 langues couvertes — abkhaze, afrikaans, albanais, allemand, anglais, arabe, arménien, basque, bengali, breton, bulgare, catalan, chinois, coréen, croate, danois, espagnol, estonien, finnois, français, gallois, grec, gujarati, hébreu, hindi, hongrois, indonésien, irlandais, islandais, italien, japonais, kazakh, letton, lituanien, luxembourgeois, malais, maltais, marathi, mongol, néerlandais, norvégien, ourdou, perse, polonais, portugais, punjabi, roumain, russe, serbe, slovaque, slovène, suédois, swahili, tamoul, tchèque, thaï, turc, ukrainien, vietnamien, yoruba, zoulou, et bien d'autres.
 
-Pour en ajouter, édite `bless/translations.json` :
+Pour ajouter une langue, éditer `bless/translations.json` :
 
 ```json
-{ "code": "fr", "language": "Français", "text": "À tes souhaits" }
+{ "code": "xx", "language": "Nom de la langue", "text": "À tes souhaits en xx" }
 ```
 
 ---
 
 ## Stockage
 
-L'historique est sauvegardé dans `~/.config/blessu/history.json`.
+L'historique du cycle est sauvegardé dans `~/.config/blessu/history.json`.
